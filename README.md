@@ -2,7 +2,9 @@
 
 A Game Project
 
-## Setup the game
+## Setup
+
+### How to add the game to your page
 Add to an HTML file a div with the following id : 
 ```
 ChessAndCheckers_container
@@ -10,13 +12,14 @@ ChessAndCheckers_container
 
 ### Enjoy the game
 
+## Contacts
 
-### Buy me a coffee
+### Buy me a coffee ☕
 ```
 The URL when i get one 😅
 ```
 
-### Contact
+### Email 📧
 ```
 corentin.laborie@epitech.eu
 ```
